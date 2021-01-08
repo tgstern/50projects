@@ -6,5 +6,6 @@
 |[Expanding Cards](https://tgstern.github.io/50projects/1-ExpandingCards/)|
 |[Progress Steps](https://tgstern.github.io/50projects/2-ProgressSteps/)|
 |[Rotating Navigation](https://tgstern.github.io/50projects/3-RotatingNavigation/)|
+|[Hidden Search](https://tgstern.github.io/50projects/4-HiddenSearch/)|
 
 Based on Udemy course by Brad Traversy
