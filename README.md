@@ -9,5 +9,6 @@
 |[Hidden Search](https://tgstern.github.io/50projects/4-HiddenSearch/)|
 |[Blurry Loading](https://tgstern.github.io/50projects/5-BlurryLoading/)|
 |[Scroll Animation](https://tgstern.github.io/50projects/6-ScrollAnimation/)|
+|[Split Landing Page](https://tgstern.github.io/50projects/7-SplitLandingPage/)|
 
 Based on Udemy course by Brad Traversy
