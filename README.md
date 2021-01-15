@@ -11,5 +11,6 @@
 |[Scroll Animation](https://tgstern.github.io/50projects/6-ScrollAnimation/)|
 |[Split Landing Page](https://tgstern.github.io/50projects/7-SplitLandingPage/)|
 |[Form Wave](https://tgstern.github.io/50projects/8-FormWave/)|
+|[Sound Board](https://tgstern.github.io/50projects/9-SoundBoard/)|
 
 Based on Udemy course by Brad Traversy
