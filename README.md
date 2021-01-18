@@ -12,5 +12,6 @@
 |[Split Landing Page](https://tgstern.github.io/50projects/7-SplitLandingPage/)|
 |[Form Wave](https://tgstern.github.io/50projects/8-FormWave/)|
 |[Sound Board](https://tgstern.github.io/50projects/9-SoundBoard/)|
+|[Dad Joke Generator](https://tgstern.github.io/50projects/10-DadJokes/)|
 
 Based on Udemy course by Brad Traversy
