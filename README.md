@@ -13,5 +13,6 @@
 |[Form Wave](https://tgstern.github.io/50projects/8-FormWave/)|
 |[Sound Board](https://tgstern.github.io/50projects/9-SoundBoard/)|
 |[Dad Joke Generator](https://tgstern.github.io/50projects/10-DadJokes/)|
+|[Event Key Code](https://tgstern.github.io/50projects/11-KeyCode/)|
 
 Based on Udemy course by Brad Traversy
