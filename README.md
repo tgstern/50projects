@@ -16,5 +16,6 @@
 |[Event Key Code](https://tgstern.github.io/50projects/11-KeyCode/)| Get event key codes in the browser on each press |
 |[FAQ Collapse](https://tgstern.github.io/50projects/12-FAQCollapse/)| FAQ page with expanding section on click |
 |[Random Choice](https://tgstern.github.io/50projects/13-RandomChoice/)| Interactive decision maker that randomizes a user's choice |
+|[Animated Navigation](https://tgstern.github.io/50projects/14-AnimatedNav/)| Animated open and close on navigation bar |
 
 Based on Udemy course by Brad Traversy
