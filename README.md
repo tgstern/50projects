@@ -19,5 +19,6 @@
 |[Animated Navigation](https://tgstern.github.io/50projects/14-AnimatedNav/)| Animated open and close on navigation bar |
 |[Increment Counter](https://tgstern.github.io/50projects/15-IncrementingCounter/)| Data counter that animates on page load |
 |[Drink Water](https://tgstern.github.io/50projects/16-DrinkWater/)| Daily water tracker with calculated totals and cup animation |
+|[Movie App](https://tgstern.github.io/50projects/17-MovieApp/)| Movie database application with external API to load content |
 
 Based on Udemy course by Brad Traversy
