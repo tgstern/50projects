@@ -20,5 +20,6 @@
 |[Increment Counter](https://tgstern.github.io/50projects/15-IncrementingCounter/)| Data counter that animates on page load |
 |[Drink Water](https://tgstern.github.io/50projects/16-DrinkWater/)| Daily water tracker with calculated totals and cup animation |
 |[Movie App](https://tgstern.github.io/50projects/17-MovieApp/)| Movie database application with external API to load content |
+|[Background Slider](https://tgstern.github.io/50projects/18-BackgroundSlider/)| Full screen image slider with matching background and focus image |
 
 Based on Udemy course by Brad Traversy
