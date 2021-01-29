@@ -21,5 +21,6 @@
 |[Drink Water](https://tgstern.github.io/50projects/16-DrinkWater/)| Daily water tracker with calculated totals and cup animation |
 |[Movie App](https://tgstern.github.io/50projects/17-MovieApp/)| Movie database application with external API to load content |
 |[Background Slider](https://tgstern.github.io/50projects/18-BackgroundSlider/)| Full screen image slider with matching background and focus image |
+|[Theme Clock](https://tgstern.github.io/50projects/19-ThemeClock/)| Animated analog clock with light and dark mode style toggle |
 
 Based on Udemy course by Brad Traversy
