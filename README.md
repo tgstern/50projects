@@ -24,5 +24,6 @@
 |[Theme Clock](https://tgstern.github.io/50projects/19-ThemeClock/)| Animated analog clock with light and dark mode style toggle |
 |[Button Ripple](https://tgstern.github.io/50projects/20-ButtonRipple/)| Ripple animation effect when button is clicked |
 |[Drag N Drop](https://tgstern.github.io/50projects/21-DragNDrop/)| Drag and drop boxes with dynamic styling and a random image |
+|[Drawing App](https://tgstern.github.io/50projects/22-DrawingApp/)| Drawing app with brush size and color selection using Canvas API |
 
 Based on Udemy course by Brad Traversy
