@@ -1,5 +1,6 @@
 # 50 Projects
 
+|Live Demo |Description |
 |---|---|
 |[Expanding Cards](https://tgstern.github.io/50projects/1-ExpandingCards/)| Clickable image cards with expanding animation |
 |[Progress Steps](https://tgstern.github.io/50projects/2-ProgressSteps/)| Styled progress tracking bar |
