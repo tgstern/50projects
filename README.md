@@ -1,8 +1,5 @@
 # 50 Projects
-50 projects in HTML, CSS, JS
 
-|Live Demos| |
-|---|---|
 |[Expanding Cards](https://tgstern.github.io/50projects/1-ExpandingCards/)| Clickable image cards with expanding animation |
 |[Progress Steps](https://tgstern.github.io/50projects/2-ProgressSteps/)| Styled progress tracking bar |
 |[Rotating Navigation](https://tgstern.github.io/50projects/3-RotatingNavigation/)| Whole page rotation animation to display navigation |
@@ -25,5 +22,3 @@
 |[Button Ripple](https://tgstern.github.io/50projects/20-ButtonRipple/)| Ripple animation effect when button is clicked |
 |[Drag N Drop](https://tgstern.github.io/50projects/21-DragNDrop/)| Drag and drop boxes with dynamic styling and a random image |
 |[Drawing App](https://tgstern.github.io/50projects/22-DrawingApp/)| Drawing app with brush size and color selection using Canvas API |
-
-Based on Udemy course by Brad Traversy
