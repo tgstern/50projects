@@ -1,5 +1,6 @@
 # 50 Projects
 
+|---|---|
 |[Expanding Cards](https://tgstern.github.io/50projects/1-ExpandingCards/)| Clickable image cards with expanding animation |
 |[Progress Steps](https://tgstern.github.io/50projects/2-ProgressSteps/)| Styled progress tracking bar |
 |[Rotating Navigation](https://tgstern.github.io/50projects/3-RotatingNavigation/)| Whole page rotation animation to display navigation |
