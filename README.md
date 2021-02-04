@@ -24,3 +24,4 @@
 |[Button Ripple](https://tgstern.github.io/50projects/20-ButtonRipple/)| Ripple animation effect when button is clicked |
 |[Drag N Drop](https://tgstern.github.io/50projects/21-DragNDrop/)| Drag and drop boxes with dynamic styling and a random image |
 |[Drawing App](https://tgstern.github.io/50projects/22-DrawingApp/)| Drawing app with brush size and color selection using Canvas API |
+|[Kinetic Loader](https://tgstern.github.io/50projects/23-KineticLoader/)| Rotating triangle CSS animation for a unique page loading element |
