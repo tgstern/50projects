@@ -27,3 +27,4 @@
 |[Kinetic Loader](https://tgstern.github.io/50projects/23-KineticLoader/)| Rotating triangle CSS animation for a unique page loading element |
 |[Content Placeholder](https://tgstern.github.io/50projects/24-ContentPlaceholder/)| Content placeholder box with subtle 2 second load animation |
 |[Sticky Navigation](https://tgstern.github.io/50projects/25-StickyNavigation/)| Fixed navigation bar with color change fade on scroll |
+|[Double Vertical Slider](https://tgstern.github.io/50projects/26-DoubleVerticalSlider/)| Split page with slider parallel animation to flip through titles and images |
