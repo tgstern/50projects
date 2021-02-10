@@ -28,4 +28,4 @@
 |[Content Placeholder](https://tgstern.github.io/50projects/24-ContentPlaceholder/)| Content placeholder box with subtle 2 second load animation |
 |[Sticky Navigation](https://tgstern.github.io/50projects/25-StickyNavigation/)| Fixed navigation bar with color change fade on scroll |
 |[Double Vertical Slider](https://tgstern.github.io/50projects/26-DoubleVerticalSlider/)| Split page with slider parallel animation to flip through titles and images |
-|[Toast Notification](https://tgstern.github.io/50projects/27-ToastNotification/index.html)| Temporary in-page notifications with random message body and type class |
+|[Toast Notification](https://tgstern.github.io/50projects/27-ToastNotification/)| Temporary in-page notifications with random message body and type class |
