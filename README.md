@@ -30,3 +30,4 @@
 |[Double Vertical Slider](https://tgstern.github.io/50projects/26-DoubleVerticalSlider/)| Split page with slider parallel animation to flip through titles and images |
 |[Toast Notification](https://tgstern.github.io/50projects/27-ToastNotification/)| Temporary in-page notifications with random message body and type class |
 |[Github Profiles](https://tgstern.github.io/50projects/28-GithubProfiles/)| Search Github users and create highlight card with Axios and Github API |
+|[Double Click Heart](https://tgstern.github.io/50projects/29-DoubleClickHeart/)| Random image and double click to like function with animation and counter |
