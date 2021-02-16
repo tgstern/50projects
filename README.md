@@ -31,3 +31,4 @@
 |[Toast Notification](https://tgstern.github.io/50projects/27-ToastNotification/)| Temporary in-page notifications with random message body and type class |
 |[Github Profiles](https://tgstern.github.io/50projects/28-GithubProfiles/)| Search Github users and create highlight card with Axios and Github API |
 |[Double Click Heart](https://tgstern.github.io/50projects/29-DoubleClickHeart/)| Random image and double click to like function with animation and counter |
+|[Auto Text](https://tgstern.github.io/50projects/30-AutoText/)| Auto typing effect with adjustable speed and text content |
