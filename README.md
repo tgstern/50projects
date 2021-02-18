@@ -33,3 +33,4 @@
 |[Double Click Heart](https://tgstern.github.io/50projects/29-DoubleClickHeart/)| Random image and double click to like function with animation and counter |
 |[Auto Text](https://tgstern.github.io/50projects/30-AutoText/)| Auto typing effect with adjustable speed and text content |
 |[Password Generator](https://tgstern.github.io/50projects/31-PasswordGenerator/)| Random password generator with selectable length, characters, and clipboard copy button |
+|[Checkbox Tradeoff](https://tgstern.github.io/50projects/32-CheckboxTradeoff/)| Style checkbox animation with added JavaScript logic |
