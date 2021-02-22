@@ -35,3 +35,4 @@
 |[Password Generator](https://tgstern.github.io/50projects/31-PasswordGenerator/)| Random password generator with selectable length, characters, and clipboard copy button |
 |[Checkbox Tradeoff](https://tgstern.github.io/50projects/32-CheckboxTradeoff/)| Style checkbox animation with added JavaScript logic |
 |[Notes App](https://tgstern.github.io/50projects/33-NotesApp/)| CRUD style note taking app using sessionStorage and Markdown text styling |
+|[Animated Countdown](https://tgstern.github.io/50projects/34-AnimatedCountdown/)| Countdown ticker with CSS spin animation and replay button |
