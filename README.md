@@ -37,3 +37,4 @@
 |[Notes App](https://tgstern.github.io/50projects/33-NotesApp/)| CRUD style note taking app using sessionStorage and Markdown text styling |
 |[Animated Countdown](https://tgstern.github.io/50projects/34-AnimatedCountdown/)| Countdown ticker with CSS spin animation and replay button |
 |[Image Carousel](https://tgstern.github.io/50projects/35-ImageCarousel/)| Rotating display of images with auto scroll function and change buttons |
+|[Hoverboard](https://tgstern.github.io/50projects/36-Hoverboard/)| Grid of boxes that light with color with mouse pass over and fade out when mouse leaves |
