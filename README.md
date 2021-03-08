@@ -40,3 +40,4 @@
 |[Hoverboard](https://tgstern.github.io/50projects/36-Hoverboard/)| Grid of boxes that light with color with mouse pass over and fade out when mouse leaves |
 |[Pokedex](https://tgstern.github.io/50projects/37-Pokedex/)| Pokemon card list with data from PokeAPI |
 |[Mobile Tab Nav](https://tgstern.github.io/50projects/38-MobileTabNav/)| Mobile container element and switchable tabs |
+|[Password Strength](https://tgstern.github.io/50projects/39-PasswordStrength/)| Login element that focuses background image as password length increases |
