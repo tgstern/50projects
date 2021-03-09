@@ -41,3 +41,5 @@
 |[Pokedex](https://tgstern.github.io/50projects/37-Pokedex/)| Pokemon card list with data from PokeAPI |
 |[Mobile Tab Nav](https://tgstern.github.io/50projects/38-MobileTabNav/)| Mobile container element and switchable tabs |
 |[Password Strength](https://tgstern.github.io/50projects/39-PasswordStrength/)| Login element that focuses background image as password length increases |
+|[Gif Boxes](https://tgstern.github.io/50projects/40-GifBoxes/)| Gif image that breaks apart with spinning effect on button click |
+
