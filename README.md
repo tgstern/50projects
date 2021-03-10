@@ -42,4 +42,4 @@
 |[Mobile Tab Nav](https://tgstern.github.io/50projects/38-MobileTabNav/)| Mobile container element and switchable tabs |
 |[Password Strength](https://tgstern.github.io/50projects/39-PasswordStrength/)| Login element that focuses background image as password length increases |
 |[Gif Boxes](https://tgstern.github.io/50projects/40-GifBoxes/)| Gif image that breaks apart with spinning effect on button click |
-
+|[Verify Account](https://tgstern.github.io/50projects/41-VerifyAccount/)| Six digit 2FA verification code UI design |
