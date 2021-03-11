@@ -43,4 +43,4 @@
 |[Password Strength](https://tgstern.github.io/50projects/39-PasswordStrength/)| Login element that focuses background image as password length increases |
 |[Gif Boxes](https://tgstern.github.io/50projects/40-GifBoxes/)| Gif image that breaks apart with spinning effect on button click |
 |[Verify Account](https://tgstern.github.io/50projects/41-VerifyAccount/)| Six digit 2FA verification code UI design |
-|[Live User Filter](https://tgstern.github.io/50projects/42-LiveUserFilter/)| List of users and location fetched from RandomUserAPI with a search feature |
+|[Live User Filter](https://tgstern.github.io/50projects/42-LiveUserFilter/)| List of user profiles fetched from RandomUserAPI with a search feature |
