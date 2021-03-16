@@ -46,3 +46,5 @@
 |[Live User Filter](https://tgstern.github.io/50projects/42-LiveUserFilter/)| List of user profiles fetched from RandomUserAPI with a search feature |
 |[Feedback UI](https://tgstern.github.io/50projects/43-FeedbackUI/)| UI design to tracking user feedback responses |
 |[Custom Range Slider](https://tgstern.github.io/50projects/44-CustomRangeSlider/)| Slider widget with moving label and custom styling |
+|[Netflix Nav](https://tgstern.github.io/50projects/45-NetflixNav/)| Netflix mock UI with animated side nav bar and mobile responsivity |
+
