@@ -48,3 +48,4 @@
 |[Custom Range Slider](https://tgstern.github.io/50projects/44-CustomRangeSlider/)| Slider widget with moving label and custom styling |
 |[Netflix Nav](https://tgstern.github.io/50projects/45-NetflixNav/)| Netflix mock UI with animated side nav bar and mobile responsivity |
 |[Quiz App](https://tgstern.github.io/50projects/46-QuizApp/)| Multiple choice quiz application with data stored in JavaScript array |
+|[Quiz App](https://tgstern.github.io/50projects/47-TestimonialBoxes/)| Testimonials with 10 second animation to cycle through reviews |
