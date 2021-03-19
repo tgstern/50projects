@@ -50,3 +50,5 @@
 |[Quiz App](https://tgstern.github.io/50projects/46-QuizApp/)| Multiple choice quiz application with data stored in JavaScript array |
 |[Testimonial Boxes](https://tgstern.github.io/50projects/47-TestimonialBoxes/)| Testimonials with 10 second animation to cycle through reviews |
 |[Random Image Feed](https://tgstern.github.io/50projects/48-RandomImageFeed/)| Page with rows of random images loaded from Unsplash |
+|[Todo List](https://tgstern.github.io/50projects/49-TodoList/)| CRUD todo list application implementing localStorage to save list data |
+
