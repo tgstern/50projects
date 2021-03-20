@@ -51,4 +51,5 @@
 |[Testimonial Boxes](https://tgstern.github.io/50projects/47-TestimonialBoxes/)| Testimonials with 10 second animation to cycle through reviews |
 |[Random Image Feed](https://tgstern.github.io/50projects/48-RandomImageFeed/)| Page with rows of random images loaded from Unsplash |
 |[Todo List](https://tgstern.github.io/50projects/49-TodoList/)| CRUD todo list application implementing localStorage to save list data |
+|[Catch Insect Game](https://tgstern.github.io/50projects/50-CatchInsectGame/)| Application with (never-ending) game to catch bugs on screen |
 
